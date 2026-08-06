@@ -18,9 +18,9 @@
 
 | Periférico | Modelo | Loja | Valor |
 |---|---|---:|---:|
-| Monitor | HQ Ultra 24", IPS, Full HD, 200 Hz, 1 ms, FreeSync | [KaBuM](https://www.kabum.com.br/produto/1002864/monitor-gamer-hq-ultra-24-ips-200hz-1ms-full-hd-freesync-hdmi-displayport-frameless-hq24ip200) | R$ 566,00 |
-|  |  | **Total dos periféricos** | **R$ 566,00** |
+| Monitor | SuperFrame Vision 23,8", Full HD, Fast IPS, 240 Hz, HDR, FreeSync/G-Sync | [Terabyte](https://www.terabyteshop.com.br/produto/38324/monitor-gamer-superframe-vision-238-pol-full-hd-fast-ips-240hz-hdr-freesyncg-sync-hdmidp-sfvsfb-24240-fhd-pro) | R$ 599,00 |
+|  |  | **Total dos periféricos** | **R$ 599,00** |
 
 ## Total geral
 
-**R$ 5.503,00**
+**R$ 5.536,00**
