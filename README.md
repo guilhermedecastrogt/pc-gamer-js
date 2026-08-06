@@ -19,8 +19,12 @@
 | Periférico | Modelo | Loja | Valor |
 |---|---|---:|---:|
 | Monitor | SuperFrame Vision 23,8", Full HD, Fast IPS, 240 Hz, HDR, FreeSync/G-Sync | [Terabyte](https://www.terabyteshop.com.br/produto/38324/monitor-gamer-superframe-vision-238-pol-full-hd-fast-ips-240hz-hdr-freesyncg-sync-hdmidp-sfvsfb-24240-fhd-pro) | R$ 599,00 |
-|  |  | **Total dos periféricos** | **R$ 599,00** |
+| Suporte para monitor | Zinnia Nimbo 110, articulado, pistão a gás, para monitores de 13" a 32" | [Mercado Livre](https://www.mercadolivre.com.br/suporte-articulado-para-monitor-13-a-32-pistao-a-gas-ajustavel-zinnia-nimbo-110-preto/p/MLB50722875) | R$ 85,00 |
+| Mouse | Attack Shark X6, sem fio, base magnética RGB, tri-mode, 26.000 DPI, PAW3395 | [KaBuM](https://www.kabum.com.br/produto/904355/mouse-gamer-sem-fio-attack-shark-x6-ultraleve-com-base-de-carregamento-magnetico-rgb-tri-mode-26-000-dpi-sensor-optico-paw3395-7-botoes-programaveis-branco) | R$ 199,00 |
+| Mousepad | Attack Shark CCM02 Black | [KaBuM](https://www.kabum.com.br/produto/1022154/mousepad-gamer-attack-shark-preto-ccm02-black) | R$ 89,00 |
+| Headset | Havit H2002D, drivers de 53 mm, microfone destacável, P2 3,5 mm | [KaBuM](https://www.kabum.com.br/produto/102770/headset-gamer-havit-drivers-53mm-microfone-plugavel-3-5mm-pc-ps4-xbox-one-preto-hv-h2002d) | R$ 179,00 |
+|  |  | **Total dos periféricos** | **R$ 1.151,00** |
 
 ## Total geral
 
-**R$ 5.536,00**
+**R$ 6.088,00**
